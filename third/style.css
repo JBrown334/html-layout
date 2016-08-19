@@ -1,0 +1,48 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+.header {
+  padding: 15px 20px;
+  background-color: #cecece;
+}
+.headerbox {
+  height: 90px;
+  width: 90px;
+  background: #5181da;
+}
+p {
+  text-align:center;
+  vertical-align: middle;
+  color: #3a3737;
+  padding: 30px;
+  font-size: 20px;
+}
+
+.blue {
+  width: 100%;
+  background-color: #5181da;
+  height: 16.66vh;
+
+
+}
+.seafoam {
+    width: 100%;
+    background-color: #02e0c1;
+    height: 16.66vh;
+
+}
+.green {
+  width: 100%;
+  background-color: #add284;
+  height: 16.66vh;
+
+
+}
+.yellow {
+  width: 100%;
+  background-color: #e2e214;
+  height: 16.66vh;
+
+}
